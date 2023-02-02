@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello world with Webpack <a name="about-project"></a>
 
-**Hello world with Webpack** 
+**Hello world with Webpack** is exercise in which we practice the previous knowledge of Webpack, rails and  jsbundling-rails gem.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -267,7 +267,7 @@ If you like this project it a thumb up : 👍 and share this projects with your 
 <!-- > Give credit to everyone who inspired your codebase. -->
 
 I would like to thank...
-- [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for the design.
+<!-- - [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) for the design. -->
 - **Microverse** for giving the opportunity to learn
 - Code reviewers and coding partners
 - Hat tip to anyone whose code was used
