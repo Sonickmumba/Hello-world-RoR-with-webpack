@@ -8,3 +8,6 @@
 
 message1 = Message.create(message: 'Hi, John!!')
 message2 = Message.create(message: 'Hello, Microverse')
+message2 = Message.create(message: 'HI, Mulibwanji')
+message4 = Message.create(message: "Hello, Micah how are you today?")
+message5 = Message.create(message: 'How are Soni?')
