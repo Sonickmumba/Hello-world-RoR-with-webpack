@@ -6,19 +6,6 @@ import { Provider } from 'react-redux';
 import Greeting from './components/Greetings';
 import store from './redux/store';
 
-// function App() {
-//   return (
-//   <h1>
-//     Hello World! Sonick
-//   </h1>);
-// }
-
-// ReactDOM.render(
-//   <App />,
-//   document.getElementById('root'),
-// );
-
-
 function App() {
   return (
     <div>
